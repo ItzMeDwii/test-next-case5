@@ -26,6 +26,7 @@ module.exports = {
   },
   plugins: [
     require("@thoughtbot/tailwindcss-aria-attributes"),
-    require('@headlessui/tailwindcss')
+    require('@headlessui/tailwindcss'),
+    require('tailwind-scrollbar-hide'),
   ],
 };

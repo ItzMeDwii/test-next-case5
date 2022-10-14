@@ -9,5 +9,4 @@ const Index = () => {
 };
 
 Index.layout = MainLayout;
-
 export default Index;
